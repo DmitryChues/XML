@@ -1,1 +1,12 @@
-
+<?xml version="1.0" ?>
+<bug>
+  <Summary>Login: Error messages in the login from are displayed in English</Summary>
+  <Project>Yolochka</Project>
+  <Version>2.0</Version>
+  <Severity>Major</Severity>
+  <Actual_result>Error massanges in the login fron are displayed in English</Actual_result>
+  <Expected_result>Error massanges in the login from are displayed in the chosen language</Expected_result>
+  <Author>Dmitry Chues</Author>
+  <Status>new</Status>
+  <Attachment>http://yolochka.com"</Attachment>
+</bug>
