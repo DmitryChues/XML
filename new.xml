@@ -1,4 +1,7 @@
 <?xml version="1.0" ?>
 <person>
 	<name>Chues Dmitry Aleksandrovich</name>
+	<age>23</age>
+	<pets>3</pets>
+	<salary>5000$</salary>
 </person>
